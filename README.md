@@ -19,7 +19,7 @@
 <td><font face=aharoni><font size=4>GF</font></td><td><font face=aharoni><font size=4>GC</font></td><td><font face=aharoni><font size=4>DF</font></td>
 <td><font face=aharoni><font size=4>PUNTOS</font></td></tr>
 
-<tr><td><font face=app850><font size=4><font color=yellow>1</font></font></td><td><font face=app850.fon><font size=4><font color=yellow>BRASIL</font></font></td><td><font face=aharoni><font size=4><font color=yellow>5</font></td>
+<tr><td><font face=app850><font size=4><font color=yellow>1</font></font></td><td><font face=app850><font size=4><font color=yellow>BRASIL</font></font></td><td><font face=aharoni><font size=4><font color=yellow>5</font></td>
 <td><font face=aharoni><font size=4>4</font></td><td><font face=aharoni><font size=4>1</font></td><td><font face=aharoni><font size=4>0</font></td>
 <td><font face=aharoni><font size=4>11</font></td><td><font face=aharoni><font size=4>4</font></td><td><font face=aharoni><font size=4>7</font></td>
 <td><font face=aharoni><font size=4>13</font></font></td></tr>
