@@ -15,7 +15,7 @@
 <p>
 <center><table border=10 bgcolor= #767ED3 cellpadding=6 cellspacing=8>
 <tr><td><font face=aharoni><font size=4>POSICIÓN</font></td><td><font face=aharoni><font size=4>PAÍS</font></td><td><font face=aharoni><font size=4>PJ</font></td>
-<td><font face=aharoni><font size=4>PG</font></td><td><font face=aharoni><font size=4>PE</font></td><td><font face=aharoni><font size=4>PP</font></td>
+<td><font face=terminal><font size=4>PG</font></td><td><font face=aharoni><font size=4>PE</font></td><td><font face=aharoni><font size=4>PP</font></td>
 <td><font face=aharoni><font size=4>GF</font></td><td><font face=aharoni><font size=4>GC</font></td><td><font face=aharoni><font size=4>DF</font></td>
 <td><font face=aharoni><font size=4>PUNTOS</font></td></tr>
 
