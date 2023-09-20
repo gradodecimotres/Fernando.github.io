@@ -1,6 +1,6 @@
 # Fernando.github.io
 <html>
-<title>ELIMINATORIAS</title>
+<tittle>ELIMINATORIAS</tittle>
 <head>
 <center><table border=10 bgcolor=blue cellpadding=6 cellspacing=8>
 <tr><td style="border-width: 4px; border: solid; border-color: #FF0000;"><center><font color=white><font face=aharoni><font size=8>ELIMINATORIAS COPA MUNDIAL DE LA FIFA ESTADOS UNIDOS-CANADÁ-MÉXICO 2026</font><center></td></tr>
